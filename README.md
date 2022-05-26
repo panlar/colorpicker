@@ -1,4 +1,4 @@
-# Color-Picker-PanLar
+# PanLar | Color Picker
 
 ### Proyecto creado por Johan Paul Barahona Santos
 
